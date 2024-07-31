@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TonyOdera
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, Javascript & CSS
 
 
 <!---
